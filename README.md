@@ -41,10 +41,9 @@ pytest
 
 Project images are stored in `assets/images/`.
 
-![Hero Banner](assets/images/01_hero_banner.png)
-![Architecture Diagram](assets/images/02_architecture_diagram.png)
-![Research Flow](assets/images/03_research_flow.png)
-![CLI Terminal](assets/images/04_cli_terminal.png)
-![Provider Logos](assets/images/07_provider_logos.png)
+<img src="assets/images/01_hero_banner.png" alt="Hero Banner" style="border:1px solid #ccc; border-radius:8px; max-width:100%;">
+<img src="assets/images/02_architecture_diagram.png" alt="Architecture Diagram" style="border:1px solid #ccc; border-radius:8px; max-width:100%;">
+<img src="assets/images/03_research_flow.png" alt="Research Flow" style="border:1px solid #ccc; border-radius:8px; max-width:100%;">
+<img src="assets/images/04_cli_terminal.png" alt="CLI Terminal" style="border:1px solid #ccc; border-radius:8px; max-width:100%;">
+<img src="assets/images/07_provider_logos.png" alt="Provider Logos" style="border:1px solid #ccc; border-radius:8px; max-width:100%;">
 
-See plan/ResearchPilot_Documentation_Bundle for full docs.
